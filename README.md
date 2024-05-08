@@ -1,10 +1,11 @@
 # Olá visitante,  eu sou o Lucas! :D
 
-⌦ Acadêmico em ciência da computação 👩🏻‍💻
+- 👩🏻‍💻 Acadêmico em ciência da computação
+- ✏️ UX\UI Designer 
+- 📱  Aspirante a desenvolvedor mobile Android 
+- 👩🏻‍💻 Estudando e praticando Flutter
 
-⌦ Aspirante a desenvolvedor mobile Android 💻
-
-<img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+##
 
 ### Me encontre no:
 <div align="center">
