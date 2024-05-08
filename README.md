@@ -1,4 +1,4 @@
-# Olá visitante,  eu sou o Lucas!<imagem alinhar="esquerda" fonte="https://github.com/AlefMends/alefmends/blob/main/star.gif" alternativo="Bastão" largura="30">
+# Olá visitante,  eu sou o Lucas!  <imagem alinhar="esquerda" fonte="https://github.com/AlefMends/alefmends/blob/main/star.gif" alternativo="Bastão" largura="30">
 
  
 - 👩🏻‍💻 Acadêmico em ciência da computação
