@@ -22,9 +22,9 @@
 ### GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/xucona">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xucona&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xucona&layout=compact&langs_count=8&theme=dracula"/>
+  <a href="https://github.com/devlucasvcarvalho">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devlucasvcarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasvcarvalho&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 
