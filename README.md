@@ -21,6 +21,10 @@
 
 ##
 
+<!--### Tecnologias que mais estou usando atualmente:
+
+-->
+
 ### GitHub Stats:
 
 <div align="center">
