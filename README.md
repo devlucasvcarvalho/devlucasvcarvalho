@@ -2,7 +2,7 @@
 
 ### Eu sou o Lucas, e seja bem vindo ao meu perfil  <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
 
- 
+-  ∞ DevOps 
 - 👩🏻‍💻 Acadêmico em ciência da computação
 - ✏️ UX\UI Designer 
 - 📱  Aspirante a desenvolvedor mobile Android 
