@@ -5,7 +5,7 @@
 -  ∞ DevOps 
 - 👩🏻‍💻 Acadêmico em ciência da computação
 - ✏️ UX\UI Designer 
-- 📱  Aspirante a desenvolvedor mobile Android 
+- 📱  Desenvolvedor mobile Android 
 - 👩🏻‍💻 Estudando e praticando Flutter
 
 ##
